@@ -31,7 +31,7 @@ public class Factorial {
 		int fact=1;
 		Scanner in = new Scanner(System.in);
 		 
-        System.out.println("enter num");
+        System.out.println("enter number");
  
         int num = in.nextInt();
 
